@@ -1,13 +1,8 @@
-.jumbotron {
-  background-image: url("../img/cosmic-cat.jpg");
-  height: 33vh;
-  background-size: cover;
-}
-
 img {
   max-width: 100%;
   border-radius: 4px;
 }
+
 
 .panel {
   border-color: #5900b3;
@@ -22,8 +17,28 @@ h3 {
   background-color: #5900b3;
   border: none;
   border-radius: 0;
+  margin-bottom: 0;
 }
 
 .navbar button {
   background-color: white;
+}
+
+#myCarousel {
+  height: 33vh;
+  margin-top: 0;
+  margin-bottom: 3%;
+  border: none;
+  border-radius: 0;
+}
+
+#myCarousel img {
+  align-items: center;
+  min-width: 100%;
+  border-radius: 0;
+
+}
+
+#myCarousel .item {
+  max-height: 33vh;
 }
