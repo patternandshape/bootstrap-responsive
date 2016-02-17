@@ -36,9 +36,20 @@ h3 {
   align-items: center;
   min-width: 100%;
   border-radius: 0;
-
 }
 
 #myCarousel .item {
   max-height: 33vh;
+}
+
+.row:nth-child(2) {
+  margin-top: 3%;
+  font-style: italic;
+  margin-bottom: 2%;
+}
+
+@media screen and (max-width: 767px) {
+  .col-sm-6 img{
+    width: 100%;
+  }
 }
