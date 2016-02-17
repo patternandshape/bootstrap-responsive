@@ -1,0 +1,9 @@
+.jumbotron {
+  background-image: url("../img/cosmic-cat.jpg");
+  height: 33vh;
+  background-size: cover;
+}
+
+img {
+  max-width: 100%;
+}
