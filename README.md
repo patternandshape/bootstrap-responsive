@@ -13,6 +13,7 @@ This lesson was to create a responsive column layout using Bootstrap.
 
 * HTML
 * CSS
+* Bootstrap
 
 ##### License
 
